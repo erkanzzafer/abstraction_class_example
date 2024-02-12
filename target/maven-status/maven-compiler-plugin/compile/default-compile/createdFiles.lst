@@ -1,0 +1,5 @@
+com\mycompany\abstraction_class_example\Abstraction_class_example.class
+com\mycompany\abstraction_class_example\BaseDatabaseManager.class
+com\mycompany\abstraction_class_example\CustomerManager.class
+com\mycompany\abstraction_class_example\OracleDatabaseManager.class
+com\mycompany\abstraction_class_example\SqlServerDatabaseManager.class
